@@ -22,9 +22,6 @@ The Raydium Sniper Bot aims to catch new pools on Raydium and execute buy/sell t
   - Auto buy and sell with specific amount, time delay, profit, and loss percentages.
   - Jito Mode: Execute transactions with Jito mode, allowing manual adjustment of Jito fees.
 
-
-  
-
 ### 2. Meme Coin Bot
 
 #### Description:
